@@ -1,1 +1,1 @@
-# refactor_challenge
+# refactor_challenge_js
